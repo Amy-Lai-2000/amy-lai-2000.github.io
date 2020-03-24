@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
 }
 h1 {
-    font-size: 4rem;
+    font-size: 7rem;
     line-height: 7rem;
 }
 .subheading {
@@ -22,6 +22,10 @@ h1, h2, h3, h4, h5, h6 {
 	color: rgb(169,191,203);
 }
 h1.text-primary{
-    font-size: 3rem;
+    font-size: 5rem;
     letter-spacing: -0.05rem;
     line-height: 3rem;
+}
+.bg-primary {
+    background-color: rgb(226,192,193)
+}
