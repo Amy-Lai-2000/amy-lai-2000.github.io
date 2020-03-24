@@ -4,14 +4,14 @@ body {
 h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
 }
-.subheading{
+subheading{
 	font-family:'Noto Sans TC',sans-serif;
 }
 h1 {
     font-size: 7rem;
     line-height: 7rem;
 }
-.subheading {
+subheading {
 	font-size: 1.2rem;
 }
 p.lead {
@@ -26,6 +26,6 @@ h1.text-primary{
     letter-spacing: -0.05rem;
     line-height: 3rem;
 }
-.bg-primary {
+bg-primary {
     background-color: rgb(226,192,193)
 }
