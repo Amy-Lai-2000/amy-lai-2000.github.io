@@ -31,5 +31,5 @@ h1.text-primary{
 
 }
 .text-primary {
-    color:(204,197,166)!important;
+    color:rgb(204,197,166)!important;
 }
