@@ -27,13 +27,16 @@ h1.text-primary{
     line-height: 3rem;
 }
 .bg-primary {
-    background-color: rgb(159,160,160)!important;
+    background-color: #CD5360!important;
 
 }
 .text-primary {
     color:rgb(204,197,166)!important;
 }
 a {
-    color:rgb(159,160,160)!important;
+    color:#F5F5DC!important;
 	
+}
+body{
+	color:#286DA8!important;
 }
