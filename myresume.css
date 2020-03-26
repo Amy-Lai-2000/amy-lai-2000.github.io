@@ -1,0 +1,49 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family:'Noto Sans TC',sans-serif;
+}
+.subheading{
+	font-family:'Noto Sans TC',sans-serif;
+}
+h1 {
+    font-size: 5rem;
+    line-height: 7rem;
+}
+.subheading {
+	font-size: 1.2rem;
+}
+p.lead {
+	color:#D1B89F;
+    font-size: 1rem;
+    font-weight: 300;
+}
+h1{
+	color:#D1B89F;
+}
+h1.text-primary{
+    font-size: 5rem;
+    letter-spacing: -0.05rem;
+    line-height: 3rem;
+}
+.bg-primary {
+    background-color: #CC857C!important;
+
+}
+.text-primary {
+    color:rgb(204,197,166)!important;
+}
+a {
+    color:#F5F5DC!important;	
+}
+section{  
+background-repeat:repeat-x;
+	background-color: #f07518;
+  background-image: url("http://www.transparenttextures.com/patterns/wood.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
+	
+}
+P{font-size: 4rem;
+    line-height: 5rem;
+	
