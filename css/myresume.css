@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
 }
 h1 {
-    font-size: 7rem;
+    font-size: 5rem;
     line-height: 7rem;
 }
 .subheading {
@@ -36,7 +36,7 @@ h1.text-primary{
 a {
     color:#F5F5DC!important;	
 }
-p{  
+section{  
 background-repeat:repeat-x;
 	background-color: #f07518;
   background-image: url("http://www.transparenttextures.com/patterns/wood.png");
