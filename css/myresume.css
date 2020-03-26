@@ -15,11 +15,12 @@ h1 {
 	font-size: 1.2rem;
 }
 p.lead {
-    font-size: 1rem;
+	color:#D1B89F;
+    font-size: 3rem;
     font-weight: 300;
 }
-h1, h2, h3, h4, h5, h6 {
-	color: rgb(100,132,151);
+h1{
+	color:#D1B89F;
 }
 h1.text-primary{
     font-size: 5rem;
@@ -27,7 +28,7 @@ h1.text-primary{
     line-height: 3rem;
 }
 .bg-primary {
-    background-color: #CD5360!important;
+    background-color: #CC857C!important;
 
 }
 .text-primary {
@@ -43,4 +44,6 @@ background-repeat:repeat-x;
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
 	
 }
+P{font-size: 4rem;
+    line-height: 5rem;
 	
