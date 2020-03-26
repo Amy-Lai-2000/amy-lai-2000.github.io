@@ -1,5 +1,8 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
+	background-image:url("https://www.transparenttextures.com/patterns/wood.png");
+    background-color:#286DA8!important;
+	background-repeat:repeat-x
 }
 h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
@@ -36,9 +39,5 @@ h1.text-primary{
 a {
     color:#F5F5DC!important;
 	
-}
-body{
-	background-image:url("https://www.transparenttextures.com/patterns/wood.png")
-    padding:#286DA8!important;
 }
 	
