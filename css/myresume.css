@@ -1,8 +1,5 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
-	background-color:#286DA8!important;
-	background-image:url("img/wood.png");
-	background-repeat:repeat-x
 }
 h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
@@ -39,3 +36,8 @@ h1.text-primary{
 a {
     color:#F5F5DC!important;	
 }
+p{background-color:#286DA8!important;
+	background-image:url("img/wood.png");
+	background-repeat:repeat-x
+}
+	
