@@ -36,8 +36,11 @@ h1.text-primary{
 a {
     color:#F5F5DC!important;	
 }
-p{background-color:#286DA8!important;
-	background-image:url("img/wood.png");
-	background-repeat:repeat-x
+p{  
+background-repeat:repeat-x;
+	background-color: #f07518;
+  background-image: url("http://www.transparenttextures.com/patterns/wood.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
+	
 }
 	
