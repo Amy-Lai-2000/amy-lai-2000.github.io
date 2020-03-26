@@ -16,8 +16,11 @@ h1 {
 }
 p.lead {
 	color:#D1B89F;
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: 300;
+}
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
 }
 h1{
 	color:#D1B89F;
