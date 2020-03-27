@@ -24,7 +24,7 @@ h1.text-primary{
 }
 p.lead {
 	color:#D1B89F;
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight: 300;
 }
 .mb-5, .my-5 {
@@ -47,7 +47,7 @@ section{
   background-repeat:repeat-y;
   background-color:#f08f39
 }
-P{font-size: 0.5rem;
+P{font-size: 1.5rem;
 }
 .lead {
     font-size: 1.00rem;
