@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
 }
 .subheading {
-	font-size: 2.6rem;
+	font-size: 2rem;
 }
 h1 {
     font-size: 5rem;
@@ -24,14 +24,14 @@ h1.text-primary{
 }
 p.lead {
 	color:#D1B89F;
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 300;
 }
 .mb-5, .my-5 {
     margin-bottom: 1rem!important;
 }
 .bg-primary {
-    background-color: #CC857C!important;
+    background-color: #F5F5DC!important;
 
 }
 .text-primary {
