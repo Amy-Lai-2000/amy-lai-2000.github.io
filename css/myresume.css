@@ -15,7 +15,7 @@ h1 {
     line-height: 7rem;
 }
 h1{
-	color:#D1B89F;
+	color:#F5F5DC;
 }
 h1.text-primary{
     font-size: 5rem;
@@ -23,8 +23,8 @@ h1.text-primary{
     line-height: 3rem;
 }
 p.lead {
-	color:#D1B89F;
-    font-size: 2rem;
+	color:#F5F5DC;
+    font-size: 1.5rem;
     font-weight: 300;
 }
 .mb-5, .my-5 {
@@ -39,7 +39,7 @@ p.lead {
 }
 a {
     color:#F5F5DC!important;
-font-size:1.00rem	
+font-size:1.5rem	
 }
 section{  
 background-repeat:repeat-x;
@@ -48,7 +48,7 @@ background-repeat:repeat-y;
   background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
 
 }
-P{font-size: 2rem;
+P{font-size: 1.5rem;
 }
 .lead {
     font-size: 1.00rem;
