@@ -12,7 +12,7 @@ h1 {
     line-height: 7rem;
 }
 .subheading {
-	font-size: 1.2rem;
+	font-size: 0.6rem;
 }
 p.lead {
 	color:#D1B89F;
@@ -42,11 +42,17 @@ a {
 }
 section{  
 background-repeat:repeat-x;
+background-repeat:repeat-y;
 	background-color: #f07518;
   background-image: url("http://www.transparenttextures.com/patterns/wood.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
 	
 }
-P{font-size: 4rem;
+P{font-size: 2rem;
     line-height: 5rem;
+}
+.lead {
+    font-size: 1.00rem;
+    font-weight: 300;
+}
 	
