@@ -8,7 +8,7 @@ h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
 }
 .subheading {
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 h1 {
     font-size: 5rem;
@@ -38,15 +38,16 @@ p.lead {
     color:rgb(204,197,166)!important;
 }
 a {
-    color:#F5F5DC!important;	
+    color:#F5F5DC!important;
+font-size:1.00rem	
 }
 section{  
 background-repeat:repeat-x;
 background-repeat:repeat-y;
 	background-color: #f07518;
-  background-image: url("http://www.transparenttextures.com/patterns/wood.png")
+  background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png")
 }
-P{font-size: 0.6rem;
+P{font-size: 2rem;
 }
 .lead {
     font-size: 1.00rem;
