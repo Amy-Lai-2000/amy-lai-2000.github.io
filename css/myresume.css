@@ -7,20 +7,12 @@ h1,h2,h3,h4,h5,h6{
 .subheading{
 	font-family:'Noto Sans TC',sans-serif;
 }
+.subheading {
+	font-size: 1.6rem;
+}
 h1 {
     font-size: 5rem;
     line-height: 7rem;
-}
-.subheading {
-	font-size: 0.6rem;
-}
-p.lead {
-	color:#D1B89F;
-    font-size: 1rem;
-    font-weight: 300;
-}
-.mb-5, .my-5 {
-    margin-bottom: 1rem!important;
 }
 h1{
 	color:#D1B89F;
@@ -29,6 +21,14 @@ h1.text-primary{
     font-size: 5rem;
     letter-spacing: -0.05rem;
     line-height: 3rem;
+}
+p.lead {
+	color:#D1B89F;
+    font-size: 1rem;
+    font-weight: 300;
+}
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
 }
 .bg-primary {
     background-color: #CC857C!important;
@@ -44,12 +44,9 @@ section{
 background-repeat:repeat-x;
 background-repeat:repeat-y;
 	background-color: #f07518;
-  background-image: url("http://www.transparenttextures.com/patterns/wood.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
-	
+  background-image: url("http://www.transparenttextures.com/patterns/wood.png")
 }
-P{font-size: 2rem;
-    line-height: 5rem;
+P{font-size: 0.6rem;
 }
 .lead {
     font-size: 1.00rem;
