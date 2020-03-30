@@ -32,6 +32,8 @@ p.lead {
 }
 .bg-primary {
     background-color: #CC857C!important;
+	background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
+	background-repeat:repeat;
 
 }
 .text-primary {
@@ -42,10 +44,7 @@ a {
 font-size:1rem	
 }
 section{  
-background-repeat:repeat;
 	background-color:#a595bd;
-  background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
-
 }
 P{font-size: 1.5rem;
 color:#F5F5DC
