@@ -47,7 +47,8 @@ background-color:rgb(171, 147, 113,0.7);
   
 }
 P{font-size: 1.5rem;
-color:#F5F5DC
+color:#F5F5DC;
+font-family:'Noto Sans TC',sans-serif;
 }
 .lead {
     font-size: 1.00rem;
@@ -58,4 +59,5 @@ p.lead{
 }
 .fa, .fas {
     font-weight: 1500!important;
+	line-height: 3;
 }
