@@ -1,0 +1,58 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family:'Noto Sans TC',sans-serif;
+}
+.subheading{
+	font-family:'Noto Sans TC',sans-serif;
+}
+.subheading {
+	font-size: 2rem!important;
+}
+h1 {
+    font-size: 5rem;
+    line-height: 7rem;
+}
+h1{
+	color:#F5F5DC;
+}
+h1.text-primary{
+    font-size: 5rem;
+    letter-spacing: -0.05rem;
+    line-height: 3rem;
+}
+p.lead {
+	color:#F5F5DC;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
+.bg-primary {
+    background-color: #CC857C!important;
+
+}
+.text-primary {
+    color:#F5F5DC!important;
+}
+a {
+    color:#F5F5DC!important;
+font-size:1rem	
+}
+.container-fluid{  
+background-color:rgb(171, 147, 113,0.7);
+  background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
+
+}
+P{font-size: 1.5rem;
+color:#F5F5DC
+}
+.lead {
+    font-size: 1.00rem;
+    font-weight: 300;
+}
+p.lead{
+	font-family:'Noto Sans TC',sans-serif
+}
