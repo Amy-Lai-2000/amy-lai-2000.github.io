@@ -56,3 +56,6 @@ color:#F5F5DC
 p.lead{
 	font-family:'Noto Sans TC',sans-serif
 }
+.fa, .fas {
+    font-weight: 1500;
+}
