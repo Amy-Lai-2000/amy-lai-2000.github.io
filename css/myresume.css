@@ -65,5 +65,10 @@ table{width:90%
 }
 th,td{text-align:center
 }
-th,td{border:3px solid #0001
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
 }
