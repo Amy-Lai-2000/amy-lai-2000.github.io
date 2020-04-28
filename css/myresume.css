@@ -58,15 +58,15 @@ p.lead{
 	font-family:'Noto Sans TC',sans-serif
 }
 .fa, .fas {
-    font-weight: 1500!important;
-	line-height: 3;
+    font-weight: 2000!important;
+	line-height: 5;
 }
 table{width:100%
 }
 th,td{text-align:center
 }
 th, td {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 3px solid #ddd;
 }
 th {
   background-color:#CC857C!important;
