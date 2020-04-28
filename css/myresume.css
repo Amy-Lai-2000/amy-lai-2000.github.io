@@ -65,10 +65,13 @@ table{width:90%
 }
 th,td{text-align:center
 }
-th, td {
+table,th, td {
   border-bottom: 1px solid #ddd;
 }
 th {
   background-color:#CC857C!important;
   color: white;
+}
+table {
+  border-collapse: collapse;
 }
