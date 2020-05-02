@@ -84,6 +84,12 @@ img{vertical-align: middle;
     border-radius:0;
     margin: 7px;
 }
+.row {
+    width: 1150px;
+    height: 950px;
+    padding: 1px;
+    margin: 1px;
+}
 
 
 
