@@ -7,43 +7,110 @@ h1,h2,h3,h4,h5,h6{
 .subheading{
 	font-family:'Noto Sans TC',sans-serif;
 }
+.subheading {
+	font-size: 2rem!important;
+}
 h1 {
     font-size: 5rem;
     line-height: 7rem;
 }
-.subheading {
-	font-size: 1.2rem;
-}
-p.lead {
-	color:#D1B89F;
-    font-size: 1rem;
-    font-weight: 300;
-}
 h1{
-	color:#D1B89F;
+	color:#F5F5DC;
 }
 h1.text-primary{
     font-size: 5rem;
     letter-spacing: -0.05rem;
     line-height: 3rem;
 }
+p.lead {
+	color:#F5F5DC;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
 .bg-primary {
     background-color: #CC857C!important;
+background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
 
 }
 .text-primary {
-    color:rgb(204,197,166)!important;
+    color:#F5F5DC!important;
 }
 a {
-    color:#F5F5DC!important;	
+    color:#F5F5DC!important;
+font-size:1rem	
 }
-section{  
-background-repeat:repeat-x;
-	background-color: #f07518;
-  background-image: url("http://www.transparenttextures.com/patterns/wood.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */");
-	
+.container-fluid{  
+background-color:rgb(171, 147, 113,0.7);
+  
 }
-P{font-size: 4rem;
-    line-height: 5rem;
-	
+P{font-size: 1.5rem;
+color:#F5F5DC;
+font-family:'Noto Sans TC',sans-serif;
+}
+.lead {
+    font-size: 1.00rem;
+    font-weight: 300;
+}
+p.lead{
+	font-family:'Noto Sans TC',sans-serif
+}
+.fa, .fas {
+    font-weight: 2000!important;
+	line-height: 5;
+}
+table{width:100%
+}
+th,td{text-align:center
+}
+th, td {
+  border-bottom: 3px solid #ddd;
+}
+th {
+  background-color:#CC857C!important;
+  color: white;
+}
+.works{width: 100%
+}
+img{vertical-align: middle;
+    border-style: none;
+}
+.card-1 {
+    width:600px;
+    height: 600px;
+    border: 5px dotted #6495ED;
+    border-radius:0;
+	padding: 1px;
+    margin: 7px;
+}
+.row {
+    width: 20px;
+    height: 50px;
+    margin: 1px;
+	padding: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
