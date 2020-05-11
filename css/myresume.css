@@ -105,7 +105,7 @@ div.card-1{
 	order:1;
 }
 .card{
-	border: 1px solid rgba(0,0,0,0);
+	border: 0px solid rgba(0,0,0,0);
 }
 img{size:100%
 }
