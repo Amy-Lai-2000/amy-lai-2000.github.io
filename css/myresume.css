@@ -82,8 +82,8 @@ img{vertical-align: middle;
     height: 400px;
     border: 10px #6495;
     border-radius:10px;
-	padding:5px;
-    margin: 3px;
+	padding:0.5px;
+    margin: 1px;
 }
 .row {
     width: 600px;
