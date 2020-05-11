@@ -98,8 +98,8 @@ div#flex_container{
 }
 div.card-1{
 	background-color:#f2f2f2;
-	padding:0.5rem;
-	margin:0.5rem
+	padding:2rem;
+	margin:2rem
 }
 #card-1{
 	order:1;
