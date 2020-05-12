@@ -79,22 +79,34 @@ img{vertical-align: middle;
 }
 .card-1 {
     width:600px;
-    height: 600px;
-    border: 5px dotted #6495ED;
-    border-radius:0;
-	padding: 1px;
-    margin: 7px;
+    border: 10px #6495;
+    border-radius:10px;
+	padding:0.5px;
+    margin: 1px;
 }
 .row {
-    width: 20px;
-    height: 50px;
-    margin: 1px;
-	padding: 1px;
+    margin: 5px;
+	padding: 5px;
 }
-
-
-
-
+div#flex_container{
+	display: flex;
+    flex-direction: row;
+	justify-content:center;
+	flex-wrap:wrap
+}
+div.card-1{
+	background-color:#CC857C;
+	padding:1rem;
+	margin:1rem
+}
+#card-1{
+	order:1;
+}
+.card{
+	border: 0px solid rgba(0,0,0,0);
+}
+img{size:100%
+}
 
 
 
