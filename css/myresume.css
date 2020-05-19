@@ -78,6 +78,23 @@ img{vertical-align: middle;
     border-style: none;
 }
 
+.card-1 {
+    border: 10px #6495;
+    border-radius:10px;
+	padding:0.5px;
+    margin: 1px;
+}
+.row {
+    margin: 5px;
+	padding: 5px;
+}
+div#flex_container{
+	display: flex;
+    flex-direction: row;
+	justify-content:center;
+	flex-wrap:wrap
+
+
 div.card-1{
 	background-color:#CC857C;
 	padding:1rem;
