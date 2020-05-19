@@ -72,12 +72,11 @@ th {
   background-color:#CC857C!important;
   color: white;
 }
-
+.works{width: 100%
 }
 img{vertical-align: middle;
     border-style: none;
 }
-
 .card-1 {
     border: 10px #6495;
     border-radius:10px;
@@ -93,8 +92,7 @@ div#flex_container{
     flex-direction: row;
 	justify-content:center;
 	flex-wrap:wrap
-
-
+}
 div.card-1{
 	background-color:#CC857C;
 	padding:1rem;
