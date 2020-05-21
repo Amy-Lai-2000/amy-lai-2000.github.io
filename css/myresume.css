@@ -1,11 +1,11 @@
 body {
-    font-family: 'Noto Serif TC', serif;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Noto Serif TC', serif;
+	font-family:'Noto Sans TC',sans-serif;
 }
 .subheading{
-	font-family: 'Noto Serif TC', serif;
+	font-family:'Noto Sans TC',sans-serif;
 }
 a href{
 	font-size:1.5rem
@@ -43,7 +43,7 @@ background-image: url("https://www.transparenttextures.com/patterns/white-brick-
 }
 a {
     color:#F5F5DC!important;
-font-size:1.5rem	
+font-size:1rem	
 }
 .container-fluid{  
 background-color:rgb(171, 147, 113,0.7);
